@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/josep/Desktop/UnrealEngine/CavernGame/CavernGame/CavernGameProj/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/josep/Desktop/UnrealEngine/CavernGame/CavernGame/CavernGameProj/Content/AI/BP_TallGolem.uasset",
+				"C:/Users/josep/Desktop/UnrealEngine/CavernGame/CavernGame/CavernGameProj/Content/AI/BP_WideGolem.uasset",
+				"C:/Users/josep/Desktop/UnrealEngine/CavernGame/CavernGame/CavernGameProj/Content/Levels/Jackson/Level1.umap"
+			]
+		}
+	]
+}
